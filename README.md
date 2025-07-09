@@ -1,7 +1,7 @@
-#  A-Frame WebXR Scene – Built by Swathi P
+#  A-Frame WebXR Scene
 
-This is my first WebXR page using [A-Frame](https://aframe.io/), built with pure HTML and imagination  
-It’s a simple 3D scene that works via browser
+This is my first WebXR page using [A-Frame](https://aframe.io/), built with pure HTML and imagination.
+It’s a simple 3D scene that works via browser.
 
 ---
 
