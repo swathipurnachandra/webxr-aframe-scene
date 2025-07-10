@@ -17,7 +17,6 @@ It’s a simple 3D scene that works via browser.
 
 - *A-Frame*
 - *HTML5*
-- *CSS3* 
 -  No backend – entirely frontend & lightweight
 
 
